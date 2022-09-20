@@ -1,2 +1,3 @@
 Olá, esse porjeto está sendo compartilhado por mim(Thiago) e é para cumprir a meta do Dev. principal(Jeanzito) rs...
 Aumente as funcionalidades se quiser ajudar o projeto.
+Olá novamente!
